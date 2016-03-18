@@ -50,7 +50,7 @@ Notice that the content area is still centered in the white area of the page, *n
 
 Write whatever HTML, CSS, and JavaScript is needed to achieve the above functionality.
 
-###Release 0 : Make it Pretty
+###Release 1 : Make it Pretty
 Add the following improvements to your design: 
 
 - Instead of an ugly link, make a nicely-styled button toggle the sidebar.  Use the same button to open and close the sidebar.
